@@ -1,0 +1,2176 @@
+
+skadi2_iteration.png
+size: 2001,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Back mirror
+  rotate: true
+  xy: 1703, 192
+  size: 48, 145
+  orig: 48, 145
+  offset: 0, 0
+  index: -1
+BG_Back_Heir
+  rotate: false
+  xy: 1561, 21
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+BG_Doll_Aa
+  rotate: false
+  xy: 1877, 21
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+BG_Doll_Ab
+  rotate: false
+  xy: 1520, 51
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+BG_Doll_Ac
+  rotate: false
+  xy: 933, 104
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+BG_Doll_Aw
+  rotate: true
+  xy: 1848, 136
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+BG_Doll_B
+  rotate: true
+  xy: 1805, 133
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+BG_Doll_Bw
+  rotate: false
+  xy: 124, 2
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+BG_Doll_C
+  rotate: false
+  xy: 1342, 20
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+BG_Doll_Ca
+  rotate: true
+  xy: 1425, 98
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+BG_Doll_Cb
+  rotate: false
+  xy: 1766, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+BG_Doll_Cc
+  rotate: true
+  xy: 1396, 49
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+BG_Doll_Cd
+  rotate: true
+  xy: 494, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+BG_Doll_Ce
+  rotate: false
+  xy: 1743, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+BG_Doll_Cf
+  rotate: false
+  xy: 1317, 62
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+BG_Doll_Cg
+  rotate: true
+  xy: 1362, 64
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+BG_Doll_Cj
+  rotate: false
+  xy: 691, 167
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+BG_Doll_D
+  rotate: true
+  xy: 1893, 21
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+BG_Doll_D_Arm
+  rotate: false
+  xy: 923, 229
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+BG_Doll_D_Eye
+  rotate: false
+  xy: 1475, 36
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+BG_Doll_D_Eyes
+  rotate: false
+  xy: 1925, 21
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+BG_Doll_D_Ha
+  rotate: true
+  xy: 518, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+BG_Doll_D_Head
+  rotate: false
+  xy: 1521, 39
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+BG_Doll_D_chest
+  rotate: false
+  xy: 691, 138
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+BG_Doll_Da
+  rotate: true
+  xy: 1463, 54
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+BG_Doll_Dc
+  rotate: true
+  xy: 455, 79
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+BG_Doll_Dd
+  rotate: true
+  xy: 1488, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+BG_Doll_De
+  rotate: true
+  xy: 1563, 2
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+BG_Doll_Df
+  rotate: false
+  xy: 1898, 43
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+BG_Doll_Dg
+  rotate: true
+  xy: 1821, 3
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_a
+  rotate: true
+  xy: 1188, 139
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_b
+  rotate: true
+  xy: 1893, 69
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_c
+  rotate: false
+  xy: 1355, 42
+  size: 8, 18
+  orig: 178, 24
+  offset: 170, 0
+  index: -1
+BG_Ground_Layer_d
+  rotate: true
+  xy: 1936, 11
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_e
+  rotate: true
+  xy: 149, 7
+  size: 31, 3
+  orig: 31, 3
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_f
+  rotate: true
+  xy: 917, 2
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_g
+  rotate: false
+  xy: 1805, 51
+  size: 36, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_h
+  rotate: true
+  xy: 1533, 39
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+BG_Ground_Layer_k
+  rotate: false
+  xy: 1716, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+BG_Heir_A
+  rotate: true
+  xy: 933, 191
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+BG_Heir_A_Arm
+  rotate: true
+  xy: 1694, 21
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+BG_Heir_A_Leg_a
+  rotate: false
+  xy: 1303, 35
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+BG_Heir_A_Leg_aa
+  rotate: false
+  xy: 1843, 21
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+BG_Heir_A_Leg_b
+  rotate: true
+  xy: 1432, 59
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+BG_Heir_A_Leg_bb
+  rotate: true
+  xy: 570, 2
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+BG_Heir_A_bottle
+  rotate: true
+  xy: 1900, 79
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+BG_Heir_A_bottle_a
+  rotate: true
+  xy: 1976, 84
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+BG_Heir_A_bottle_b
+  rotate: false
+  xy: 1427, 21
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+BG_Heir_A_bottle_c
+  rotate: false
+  xy: 874, 84
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+BG_Heir_A_head
+  rotate: false
+  xy: 1024, 46
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+BG_Heir_A_head_a
+  rotate: true
+  xy: 1901, 157
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+BG_Heir_A_head_b
+  rotate: false
+  xy: 1465, 92
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+BG_Heir_A_head_c
+  rotate: false
+  xy: 1805, 90
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+BG_Heir_A_head_d
+  rotate: false
+  xy: 1703, 82
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Body
+  rotate: false
+  xy: 1018, 2
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Hat_A
+  rotate: false
+  xy: 755, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Hat_B
+  rotate: false
+  xy: 1614, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Hat_C
+  rotate: false
+  xy: 1694, 2
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Head
+  rotate: false
+  xy: 1584, 79
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Head_A
+  rotate: false
+  xy: 691, 151
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Head_eye
+  rotate: false
+  xy: 1898, 61
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+BG_Heir_B_L_Arm
+  rotate: true
+  xy: 1323, 26
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+BG_Heir_B_L_Hand
+  rotate: false
+  xy: 1288, 144
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+BG_Heir_B_L_Leg_a
+  rotate: false
+  xy: 1601, 2
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+BG_Heir_B_R_Arm
+  rotate: true
+  xy: 1452, 59
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+BG_Heir_B_R_Hand
+  rotate: false
+  xy: 1941, 28
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+BG_Heir_B_R_Leg
+  rotate: true
+  xy: 1511, 64
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+BG_Heir_B_R_Leg_a
+  rotate: true
+  xy: 1432, 34
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+BG_Heir_B_Tru
+  rotate: false
+  xy: 1333, 62
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+BG_Heir_C_A_Leg
+  rotate: true
+  xy: 1513, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+BG_Heir_C_B_Leg
+  rotate: false
+  xy: 1372, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+BG_Heir_C_Body
+  rotate: false
+  xy: 1659, 22
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+BG_Heir_C_Body_a
+  rotate: false
+  xy: 1443, 34
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+BG_Heir_C_Hat
+  rotate: false
+  xy: 1625, 83
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+BG_Heir_C_Hat_A
+  rotate: true
+  xy: 1918, 61
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+BG_Heir_C_Head
+  rotate: true
+  xy: 1939, 77
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+BG_Heir_C_Head_a
+  rotate: false
+  xy: 1636, 4
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+BG_Heir_C_L_Hand
+  rotate: true
+  xy: 1843, 2
+  size: 17, 21
+  orig: 17, 22
+  offset: 0, 1
+  index: -1
+BG_Heir_C_Legs
+  rotate: false
+  xy: 1743, 30
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+BG_Heir_C_R_Hand
+  rotate: false
+  xy: 1774, 30
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+BG_Heir_C_Tru
+  rotate: false
+  xy: 1843, 43
+  size: 36, 24
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Body
+  rotate: true
+  xy: 275, 33
+  size: 147, 51
+  orig: 147, 51
+  offset: 0, 0
+  index: -1
+BG_Heir_D_G
+  rotate: false
+  xy: 1128, 139
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Ga
+  rotate: true
+  xy: 1225, 8
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Gs
+  rotate: false
+  xy: 1850, 186
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Gss
+  rotate: true
+  xy: 1482, 36
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Hat
+  rotate: true
+  xy: 891, 150
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Hat_a
+  rotate: true
+  xy: 1900, 110
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Hat_back
+  rotate: true
+  xy: 1584, 48
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Head
+  rotate: false
+  xy: 1293, 161
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Head_A
+  rotate: false
+  xy: 459, 79
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+BG_Heir_D_L_Arm
+  rotate: false
+  xy: 1463, 64
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+BG_Heir_D_L_Hand
+  rotate: false
+  xy: 1958, 58
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Leg_La
+  rotate: false
+  xy: 969, 46
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+BG_Heir_D_Leg_Ra
+  rotate: true
+  xy: 1126, 82
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+BG_Heir_D_R_Arm
+  rotate: false
+  xy: 1775, 100
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+BG_Heir_D_R_Hand
+  rotate: false
+  xy: 1703, 111
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+BG_L_Lamp
+  rotate: false
+  xy: 933, 136
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+BG_L_Lamp_a
+  rotate: true
+  xy: 1775, 73
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+BG_Letter
+  rotate: false
+  xy: 1622, 26
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+BG_Letter_tentacle
+  rotate: false
+  xy: 978, 166
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+BG_R_Lamp
+  rotate: true
+  xy: 1667, 69
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+BG_R_Lamp_a
+  rotate: true
+  xy: 674, 70
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+BG_R_Pillar
+  rotate: true
+  xy: 978, 265
+  size: 81, 208
+  orig: 81, 208
+  offset: 0, 0
+  index: -1
+BG_R_Pillar_a
+  rotate: true
+  xy: 874, 2
+  size: 13, 41
+  orig: 13, 41
+  offset: 0, 0
+  index: -1
+BG_Throne
+  rotate: false
+  xy: 2, 107
+  size: 153, 239
+  orig: 153, 239
+  offset: 0, 0
+  index: -1
+BG_Throne_A
+  rotate: true
+  xy: 764, 151
+  size: 69, 125
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+BG_Throne_Ta
+  rotate: true
+  xy: 1306, 2
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+BG_Throne_Tb
+  rotate: false
+  xy: 1266, 144
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+BG_Throne_Tc
+  rotate: false
+  xy: 1514, 82
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+BG_Throne_Td
+  rotate: true
+  xy: 1129, 207
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+BG_Throne_Te
+  rotate: true
+  xy: 1584, 27
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+BG_Throne_Tf
+  rotate: true
+  xy: 1747, 75
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+BG_Throne_light
+  rotate: false
+  xy: 1938, 111
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+BG_foreground
+  rotate: true
+  xy: 455, 10
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+BG_foreground_l
+  rotate: true
+  xy: 1625, 57
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+BG_seaborn
+  rotate: false
+  xy: 358, 180
+  size: 190, 166
+  orig: 190, 166
+  offset: 0, 0
+  index: -1
+BG_seaborn_Head
+  rotate: true
+  xy: 617, 2
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+BG_seaborn_Light
+  rotate: false
+  xy: 1858, 244
+  size: 138, 102
+  orig: 139, 102
+  offset: 1, 0
+  index: -1
+BG_seaborn_Tentacle_a
+  rotate: false
+  xy: 1681, 2
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+BG_seaborn_Tentacle_b
+  rotate: true
+  xy: 149, 40
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+BG_seaborn_Tentacle_c
+  rotate: true
+  xy: 1938, 61
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+BG_seaborn_Tentacle_d
+  rotate: false
+  xy: 1623, 137
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+BG_seaborn_Tentacle_e
+  rotate: true
+  xy: 1362, 122
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+BG_seaborn_Tentacle_f
+  rotate: false
+  xy: 1585, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+BG_seaborn_Tentacle_g
+  rotate: false
+  xy: 1380, 31
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+BG_seaborn_Tentacle_h
+  rotate: false
+  xy: 1703, 167
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+BG_seaborn_Wings
+  rotate: false
+  xy: 764, 100
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+BG_seaborn_Wings_L
+  rotate: false
+  xy: 1191, 85
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+BG_seaborn_Wings_R
+  rotate: true
+  xy: 1703, 59
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+BG_seaborn_Wings_a
+  rotate: false
+  xy: 1188, 144
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+BG_seaborn_Wings_aa
+  rotate: false
+  xy: 1537, 73
+  size: 45, 11
+  orig: 45, 11
+  offset: 0, 0
+  index: -1
+BG_seaborn_Wings_ab
+  rotate: true
+  xy: 1104, 2
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+BG_seaborn_Wings_b
+  rotate: false
+  xy: 1858, 216
+  size: 82, 26
+  orig: 82, 26
+  offset: 0, 0
+  index: -1
+BG_seaborn_thorn_a
+  rotate: true
+  xy: 1370, 21
+  size: 3, 11
+  orig: 3, 11
+  offset: 0, 0
+  index: -1
+BG_seaborn_thorn_b
+  rotate: true
+  xy: 1389, 63
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+BG_seaborn_thorn_c
+  rotate: false
+  xy: 1925, 186
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+BG_seaborn_thorn_d
+  rotate: true
+  xy: 1931, 45
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+BG_seaborn_thorn_e
+  rotate: true
+  xy: 1787, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+BG_seaborn_thorn_f
+  rotate: true
+  xy: 1806, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Skadi_Back_Hair
+  rotate: false
+  xy: 2, 2
+  size: 120, 103
+  orig: 120, 106
+  offset: 0, 0
+  index: -1
+Skadi_Belly_Bfiy_L
+  rotate: false
+  xy: 1255, 33
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Skadi_Belly_Bfiy_R
+  rotate: false
+  xy: 1854, 88
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Skadi_Black_Shadow
+  rotate: true
+  xy: 1339, 2
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Skadi_Chest
+  rotate: false
+  xy: 1630, 156
+  size: 71, 43
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+Skadi_Chest_Shadow
+  rotate: false
+  xy: 1775, 53
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Skadi_Chest_tape
+  rotate: false
+  xy: 674, 2
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Skadi_Face
+  rotate: false
+  xy: 1942, 191
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Skadi_Face_Shadow
+  rotate: true
+  xy: 1252, 88
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+Skadi_Hair_ahoge_a
+  rotate: true
+  xy: 1482, 50
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+Skadi_Hair_ahoge_b
+  rotate: true
+  xy: 1706, 20
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+Skadi_L_Arm
+  rotate: false
+  xy: 874, 17
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+Skadi_L_Ball
+  rotate: false
+  xy: 1955, 35
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Skadi_L_Braid
+  rotate: false
+  xy: 1188, 235
+  size: 184, 111
+  orig: 184, 111
+  offset: 0, 0
+  index: -1
+Skadi_L_Braid_a
+  rotate: false
+  xy: 1667, 89
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Skadi_L_Ear
+  rotate: true
+  xy: 1411, 48
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Skadi_L_Eye
+  rotate: false
+  xy: 1383, 21
+  size: 14, 8
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Skadi_L_Eye_a
+  rotate: true
+  xy: 149, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+Skadi_L_Eye_c
+  rotate: false
+  xy: 1930, 21
+  size: 9, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+Skadi_L_Eye_close
+  rotate: true
+  xy: 755, 14
+  size: 15, 7
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Skadi_L_Eye_l
+  rotate: false
+  xy: 764, 2
+  size: 14, 7
+  orig: 14, 8
+  offset: 0, 1
+  index: -1
+Skadi_L_Eyebrow
+  rotate: false
+  xy: 542, 4
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+Skadi_L_Eyebrow_S
+  rotate: false
+  xy: 555, 4
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+Skadi_L_Eyebrow_a
+  rotate: false
+  xy: 1910, 21
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Skadi_L_Eyewhite
+  rotate: false
+  xy: 1427, 47
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Skadi_L_Finger_a
+  rotate: false
+  xy: 1306, 26
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Skadi_L_Finger_b
+  rotate: true
+  xy: 561, 79
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Skadi_L_Finger_c
+  rotate: false
+  xy: 923, 222
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+Skadi_L_Finger_d
+  rotate: true
+  xy: 1615, 23
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+Skadi_L_Finger_e
+  rotate: true
+  xy: 1929, 2
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Skadi_L_Foot
+  rotate: true
+  xy: 1805, 71
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+Skadi_L_Forearm
+  rotate: false
+  xy: 969, 2
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Skadi_L_Forearm_a
+  rotate: false
+  xy: 1889, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Skadi_L_Forearm_b
+  rotate: true
+  xy: 1976, 61
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Skadi_L_Forearm_s
+  rotate: false
+  xy: 1909, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Skadi_L_Hair_a
+  rotate: true
+  xy: 1144, 3
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Skadi_L_Hair_b
+  rotate: true
+  xy: 1743, 57
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Skadi_L_Hair_c
+  rotate: true
+  xy: 1538, 2
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Skadi_L_Hair_d
+  rotate: false
+  xy: 1360, 23
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+Skadi_L_Hand
+  rotate: false
+  xy: 1951, 45
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Skadi_L_Leg
+  rotate: true
+  xy: 764, 222
+  size: 25, 157
+  orig: 25, 157
+  offset: 0, 0
+  index: -1
+Skadi_L_Temple
+  rotate: true
+  xy: 1537, 120
+  size: 30, 84
+  orig: 31, 84
+  offset: 0, 0
+  index: -1
+Skadi_La_Foot
+  rotate: true
+  xy: 1850, 69
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+Skadi_La_Leg
+  rotate: true
+  xy: 550, 183
+  size: 25, 150
+  orig: 25, 150
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Arm
+  rotate: false
+  xy: 1199, 2
+  size: 24, 81
+  orig: 24, 81
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Finger_a
+  rotate: true
+  xy: 1497, 36
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Finger_b
+  rotate: true
+  xy: 825, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Finger_c
+  rotate: true
+  xy: 796, 2
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Finger_d
+  rotate: false
+  xy: 1850, 229
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Finger_e
+  rotate: false
+  xy: 1191, 60
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Forearm
+  rotate: true
+  xy: 1255, 2
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Forearm_a
+  rotate: false
+  xy: 1339, 40
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Forearm_b
+  rotate: true
+  xy: 1881, 43
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Skadi_Ld_Hand
+  rotate: false
+  xy: 1380, 48
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Skadi_Lo_Finger_a
+  rotate: true
+  xy: 755, 31
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Skadi_Lo_Finger_b
+  rotate: false
+  xy: 1965, 35
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Skadi_Lo_Finger_c
+  rotate: true
+  xy: 838, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+Skadi_Lo_Finger_d
+  rotate: false
+  xy: 1994, 178
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+Skadi_Lo_Finger_e
+  rotate: false
+  xy: 1975, 35
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+Skadi_Lo_Hand
+  rotate: false
+  xy: 1443, 45
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Skadi_M_Bangs
+  rotate: true
+  xy: 1362, 76
+  size: 21, 49
+  orig: 23, 49
+  offset: 1, 0
+  index: -1
+Skadi_Ma_Bangs
+  rotate: true
+  xy: 1413, 75
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Skadi_Ml_Bangs
+  rotate: true
+  xy: 1362, 99
+  size: 21, 61
+  orig: 22, 61
+  offset: 1, 0
+  index: -1
+Skadi_Mouth
+  rotate: false
+  xy: 1981, 51
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Skadi_Mouth_An
+  rotate: false
+  xy: 851, 2
+  size: 9, 7
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Skadi_Mouth_O
+  rotate: true
+  xy: 862, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Skadi_Mouth_smile
+  rotate: true
+  xy: 1850, 216
+  size: 11, 6
+  orig: 11, 8
+  offset: 0, 1
+  index: -1
+Skadi_Mouth_smile_o
+  rotate: true
+  xy: 1971, 45
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Skadi_Neck
+  rotate: true
+  xy: 691, 68
+  size: 68, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+Skadi_Neck_a
+  rotate: false
+  xy: 1910, 26
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Skadi_R_Arm
+  rotate: true
+  xy: 1374, 122
+  size: 44, 87
+  orig: 44, 88
+  offset: 0, 1
+  index: -1
+Skadi_R_Ball
+  rotate: false
+  xy: 1930, 27
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Skadi_R_Braid
+  rotate: false
+  xy: 328, 84
+  size: 129, 94
+  orig: 129, 94
+  offset: 0, 0
+  index: -1
+Skadi_R_Braid_a
+  rotate: false
+  xy: 978, 103
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+Skadi_R_Ear
+  rotate: false
+  xy: 1393, 31
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Skadi_R_Eye
+  rotate: true
+  xy: 1370, 26
+  size: 17, 8
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Skadi_R_Eye_a
+  rotate: true
+  xy: 1468, 36
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+Skadi_R_Eye_close
+  rotate: true
+  xy: 755, 49
+  size: 17, 7
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Skadi_R_Eye_l
+  rotate: true
+  xy: 1737, 6
+  size: 12, 4
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+Skadi_R_Eyebrow
+  rotate: false
+  xy: 1454, 36
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+Skadi_R_Eyebrow_b
+  rotate: false
+  xy: 1225, 2
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Skadi_R_Eyewhite
+  rotate: true
+  xy: 662, 3
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Skadi_R_Finger_a
+  rotate: true
+  xy: 1349, 62
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+Skadi_R_Finger_b
+  rotate: true
+  xy: 1659, 2
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Skadi_R_Finger_c
+  rotate: true
+  xy: 1434, 2
+  size: 17, 25
+  orig: 17, 26
+  offset: 0, 1
+  index: -1
+Skadi_R_Finger_d
+  rotate: true
+  xy: 1866, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Skadi_R_Finger_e
+  rotate: true
+  xy: 951, 2
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Skadi_R_Foot
+  rotate: false
+  xy: 1266, 165
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Skadi_R_Forearm
+  rotate: true
+  xy: 1537, 50
+  size: 21, 41
+  orig: 22, 45
+  offset: 1, 4
+  index: -1
+Skadi_R_Forearm_a
+  rotate: true
+  xy: 1804, 167
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Skadi_R_Forearm_b
+  rotate: false
+  xy: 1537, 86
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Skadi_R_Hair_a
+  rotate: false
+  xy: 1976, 107
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+Skadi_R_Hair_b
+  rotate: false
+  xy: 1538, 20
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Skadi_R_Hand
+  rotate: false
+  xy: 1403, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Skadi_R_Leg
+  rotate: true
+  xy: 978, 230
+  size: 33, 149
+  orig: 33, 149
+  offset: 0, 0
+  index: -1
+Skadi_R_Temple
+  rotate: true
+  xy: 1188, 200
+  size: 33, 103
+  orig: 33, 103
+  offset: 0, 0
+  index: -1
+Skadi_R_Temple_a
+  rotate: true
+  xy: 1667, 55
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+Skadi_Rb_Temple
+  rotate: true
+  xy: 1463, 124
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Arm
+  rotate: false
+  xy: 665, 86
+  size: 24, 95
+  orig: 24, 95
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Finger_a
+  rotate: true
+  xy: 1440, 21
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Finger_b
+  rotate: false
+  xy: 1994, 165
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Finger_c
+  rotate: true
+  xy: 1240, 2
+  size: 4, 13
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Finger_d
+  rotate: true
+  xy: 528, 4
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Finger_e
+  rotate: true
+  xy: 1981, 45
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Forearm
+  rotate: true
+  xy: 275, 2
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Forearm_a
+  rotate: false
+  xy: 1365, 45
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Forearm_b
+  rotate: false
+  xy: 1079, 46
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Skadi_Rd_Hand
+  rotate: false
+  xy: 1404, 31
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Finger_a
+  rotate: false
+  xy: 1459, 42
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Finger_b
+  rotate: true
+  xy: 506, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Finger_c
+  rotate: false
+  xy: 1623, 123
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Finger_d
+  rotate: false
+  xy: 1475, 41
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Finger_e
+  rotate: false
+  xy: 1929, 11
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Forearm
+  rotate: true
+  xy: 1079, 60
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Forearm_a
+  rotate: true
+  xy: 1911, 43
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Forearm_b
+  rotate: false
+  xy: 1319, 40
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Skadi_Rdr_Hand
+  rotate: false
+  xy: 1455, 21
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Arm
+  rotate: true
+  xy: 1463, 159
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Finger_a
+  rotate: true
+  xy: 1469, 21
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Finger_b
+  rotate: true
+  xy: 455, 2
+  size: 6, 11
+  orig: 6, 14
+  offset: 0, 3
+  index: -1
+Skadi_Ru_Finger_c
+  rotate: true
+  xy: 468, 2
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Finger_d
+  rotate: false
+  xy: 1993, 49
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Finger_e
+  rotate: true
+  xy: 1941, 22
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Forearm
+  rotate: true
+  xy: 1848, 161
+  size: 23, 51
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Forearm_B
+  rotate: false
+  xy: 1461, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Forearm_a
+  rotate: true
+  xy: 1411, 61
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Skadi_Ru_Hand
+  rotate: false
+  xy: 1418, 31
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Skadi_Rul_Finger_a
+  rotate: false
+  xy: 1509, 38
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Skadi_Rul_Finger_b
+  rotate: false
+  xy: 1931, 38
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Skadi_Rul_Finger_c
+  rotate: false
+  xy: 481, 2
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Skadi_Rul_Finger_d
+  rotate: false
+  xy: 1399, 21
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Skadi_Rul_Finger_e
+  rotate: true
+  xy: 1501, 51
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+Skadi_Rul_Hand
+  rotate: false
+  xy: 1495, 22
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Skadi_Rur_Finger_a
+  rotate: false
+  xy: 1482, 21
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Skadi_Rur_Finger_b
+  rotate: false
+  xy: 1413, 21
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Skadi_Rur_Finger_c
+  rotate: true
+  xy: 1615, 33
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+Skadi_Rur_Finger_d
+  rotate: true
+  xy: 1191, 71
+  size: 12, 6
+  orig: 12, 7
+  offset: 0, 1
+  index: -1
+Skadi_Rur_Finger_e
+  rotate: false
+  xy: 1943, 38
+  size: 10, 5
+  orig: 10, 6
+  offset: 0, 1
+  index: -1
+Skadi_Rur_Hand_a
+  rotate: true
+  xy: 780, 2
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Skadi_Rur_Hand_b
+  rotate: true
+  xy: 811, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Back
+  rotate: false
+  xy: 1539, 201
+  size: 162, 145
+  orig: 162, 145
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Bfly_Rope
+  rotate: true
+  xy: 935, 21
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Bfly_Rope_a
+  rotate: false
+  xy: 1537, 152
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Bl
+  rotate: true
+  xy: 1374, 232
+  size: 114, 163
+  orig: 114, 163
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Bla
+  rotate: true
+  xy: 1307, 89
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Blb
+  rotate: false
+  xy: 1946, 157
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Blc
+  rotate: false
+  xy: 328, 2
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Bra
+  rotate: true
+  xy: 1703, 242
+  size: 104, 153
+  orig: 104, 153
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Brb
+  rotate: true
+  xy: 1630, 121
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Brc
+  rotate: false
+  xy: 398, 6
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_L_Bfly
+  rotate: false
+  xy: 883, 84
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_La
+  rotate: true
+  xy: 764, 249
+  size: 97, 212
+  orig: 97, 212
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_R_Bfly
+  rotate: true
+  xy: 570, 20
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+Skadi_Shirt_Ra
+  rotate: true
+  xy: 550, 210
+  size: 136, 212
+  orig: 136, 212
+  offset: 0, 0
+  index: -1
+Skadi_Waist
+  rotate: false
+  xy: 1058, 100
+  size: 66, 65
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Skadi_butterfly
+  rotate: false
+  xy: 157, 182
+  size: 199, 164
+  orig: 199, 164
+  offset: 0, 0
+  index: -1
+Skadi_butterfly_L
+  rotate: true
+  xy: 1706, 38
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+Skadi_butterfly_R
+  rotate: true
+  xy: 1805, 30
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+Skadi_clasp
+  rotate: false
+  xy: 1703, 147
+  size: 100, 18
+  orig: 100, 19
+  offset: 0, 1
+  index: -1
+Skadi_crown
+  rotate: true
+  xy: 702, 138
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+Skadi_crown_back
+  rotate: true
+  xy: 1303, 57
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+Skadi_glow
+  rotate: false
+  xy: 764, 11
+  size: 108, 87
+  orig: 108, 88
+  offset: 0, 1
+  index: -1
+Weapon_Ball
+  rotate: false
+  xy: 561, 86
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+Weapon_Ball_B
+  rotate: false
+  xy: 1058, 167
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+Weapon_Ball_Fa
+  rotate: false
+  xy: 1307, 129
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+Weapon_Ball_Fb
+  rotate: false
+  xy: 1374, 168
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Weapon_Ball_Fc
+  rotate: true
+  xy: 1126, 60
+  size: 20, 63
+  orig: 20, 63
+  offset: 0, 0
+  index: -1
+Weapon_Ball_Fd
+  rotate: false
+  xy: 124, 57
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Weapon_Ball_light
+  rotate: true
+  xy: 1061, 2
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Weapon_Handle
+  rotate: true
+  xy: 157, 2
+  size: 178, 116
+  orig: 178, 116
+  offset: 0, 0
+  index: -1
